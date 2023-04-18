@@ -4,47 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2234788-69a4-4252-8248-667ca629ff2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_Funtion01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jss_Cass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyautogui_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python.Datatime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_BusNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Class01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Funtion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Mouse_Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_PyQt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_and.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lotto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naver_Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyautogui_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyautogui_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pysys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_to_day.py" afterDir="false" />
+    <list default="true" id="a2234788-69a4-4252-8248-667ca629ff2c" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_to_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_to_day.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Home/PycharmProjects/Python_Test",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/PycharmProjects/Python_Test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\Python_Test" />

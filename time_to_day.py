@@ -3,7 +3,7 @@ import datetime
 num = 24 # 이틀전 순번 입력
 order = 0 # 순서 번호
 month_end = 58 # 30일 기준 29 or 58
-days = ['월요일', '화요일', '수요일', '목요일', '금요일', '토요일', '일요일']
+days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 today = datetime.date.today()
 r = datetime.datetime.today().weekday()
 print(f'#### 날 짜 ##### 요 일 #### 순 번 ####')
